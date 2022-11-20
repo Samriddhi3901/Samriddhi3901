@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i'm a great cuber & traveller
 -->
 Cloud Enthusiast 
+Learning C++ 
