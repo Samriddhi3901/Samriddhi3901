@@ -1,23 +1,187 @@
-# 💫👋 Hello World
-I’m Samriddhi, a cloud-obsessed engineer ⚡ who lives at the intersection of automation, scalability, and problem solving. When I’m not architecting robust systems in the cloud, you’ll find me diving deep into DevOps practices, building full-stack applications, or contributing to open-source projects that make developers’ lives easier.<br><br>💪 My Superpowers<br>☁️ Cloud & DevOps Wizardry<br>• Designing resilient cloud architectures (AWS)<br>• Automating everything with CI/CD pipelines<br>• Containerizing dreams with Docker & Kubernetes<br>• Infrastructure-as-Code enthusiast (Terraform FTW!)<br><br>👩‍💻 Full-Stack Development<br>• Crafting sleek UIs with React<br>• Building scalable backends with Node.js/Python<br>• Database whisperer (SQL & NoSQL)<br><br>🧩 Problem-Solving Pro<br>• 400+ DSA problems conquered<br>• LeetCode warrior with a knack for optimization<br>• Turning complex challenges into elegant solutions<br><br>🚀 Beyond the Code<br>• Speedcuber (my Rubik’s cube and I have a love-hate relationship)<br>• Open-Source Evangelist - Because sharing is caring!<br>• Collaboration Enthusiast - My best work happens in teams<br>• Continuous Learner - Currently geeking out over AI/ML and serverless tech<br><br>🌈 Why Work With Me?<br>I bring more than just technical skills to the table:<br>✅ Clear communicator who bridges tech and business needs<br>✅ Solution-oriented mindset that thrives under pressure<br>✅ Passion for mentoring and sharing knowledge<br>✅ Relentless curiosity that’s always exploring new tech frontiers<br><br>📬 Let’s Build Something Amazing!<br>I’m always excited to:<br>• Collaborate on innovative projects<br>• Discuss cloud architectures and automation<br>• Share speedcubing tips (or learn yours!)<br>• Connect with fellow tech enthusiasts<br><br>www.linkedin.com/in/samriddhi-agrawal-253984249/<br>github.com/Samriddhi3901
-
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samriddhi3901&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samriddhi3901&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhi3901&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samriddhi3901&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samriddhi3901&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Hey there, I'm Samriddhi! 👋 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Cloud+%26+DevOps+Engineer+%E2%9A%A1;Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samriddhi3901&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **cloud-obsessed engineer** ⚡ who lives at the intersection of **automation**, **scalability**, and **problem solving**. When I'm not architecting robust systems in the cloud, you'll find me diving deep into DevOps practices, building full-stack applications, or contributing to open-source projects that make developers' lives easier.
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samriddhi3901&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samriddhi3901&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi3901&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samriddhi3901&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samriddhi3901&theme=redical&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 💪 My Superpowers
+
+### ☁️ Cloud & DevOps Wizardry
+```yaml
+Cloud Platforms: AWS, Azure
+Infrastructure: Terraform, CloudFormation
+Containers: Docker, Kubernetes, ECS
+CI/CD: Jenkins, GitHub Actions, GitLab CI
+Monitoring: Prometheus, Grafana, CloudWatch
+```
+
+### 👩‍💻 Full-Stack Development
+```javascript
+const mySkills = {
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Python", "Express", "FastAPI"],
+  databases: ["MongoDB", "PostgreSQL", "Redis", "DynamoDB"],
+  tools: ["Git", "VS Code", "Postman", "Docker"]
+}
+```
+
+### 🧩 Problem-Solving Pro
+- 🎯 **400+ DSA problems** conquered
+- 🏆 **LeetCode warrior** with optimization skills
+- 🔄 Turning complex challenges into elegant solutions
+
+---
+
+## 🎵 Currently Listening To
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🔥 Streak Stats & Contributions
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Samriddhi3901&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+<div align="center">
+  <img src="https://github.com/Samriddhi3901/Samriddhi3901/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## 🏆 Coding Platform Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Samriddhi3901?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
+
+## ⏱️ WakaTime Weekly Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🎲 Random Dev Joke
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Random Dev Joke" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Samriddhi3901/CI-CD-NextApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samriddhi3901&repo=CI-CD-NextApp&theme=radical" alt="CI-CD-NextApp"/>
+  </a>
+  <a href="https://github.com/Samriddhi3901/devops-node-stack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samriddhi3901&repo=devops-node-stack&theme=radical" alt="devops-node-stack"/>
+  </a>
+  <a href="https://github.com/Samriddhi3901/SynkNode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samriddhi3901&repo=SynkNode&theme=radical" alt="SynkNode"/>
+  </a>
+  <a href="https://github.com/Samriddhi3901/WhiteSpace-Socket.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samriddhi3901&repo=WhiteSpace-Socket.io&theme=radical" alt="WhiteSpace-Socket.io"/>
+  </a>
+</div>
+
+---
+
+## 🏃‍♀️ Fun Facts
+- 🧩 **Speedcuber**: My Rubik's cube and I have a love-hate relationship
+- 🌱 Currently geeking out over **AI/ML** and **serverless tech**
+- 🤝 **Collaboration Enthusiast**: My best work happens in teams
+- 📚 **Continuous Learner**: Always exploring new tech frontiers
+- ☕ Coffee-driven development is my specialty
+
+---
+
+## 📊 Visitor Stats
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Samriddhi3901&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamriddhi3901&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=false" alt="Profile Hits"/>
+</div>
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/samriddhi-agrawal-253984249/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Samriddhi3901">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+## 🎯 What I'm Up For
+
+✅ **Collaborating** on innovative projects  
+✅ **Discussing** cloud architectures and automation  
+✅ **Sharing** speedcubing tips (or learning yours!)  
+✅ **Connecting** with fellow tech enthusiasts  
+✅ **Mentoring** and knowledge sharing  
+
+---
+
+<div align="center">
+  <h3>🚀 Let's Build Something Amazing Together! 🚀</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</div>
+
+---
+
+### 📈 Contribution Graph
+![](./profile-3d-contrib/profile-gitblock.svg)
