@@ -1,170 +1,192 @@
 # Hey there, I'm Samriddhi! 👋 
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Cloud+%26+DevOps+Engineer+⚡;Full-Stack+Developer+🚀;Problem+Solver+🧩;Open+Source+Enthusiast+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Cloud+%26+DevOps+Engineer+⚡;Full-Stack+Developer+🚀;Problem+Solver+%26+Innovator+🧩;Open+Source+Enthusiast+🌟;Building+the+Future%2C+One+Commit+at+a+Time+✨" alt="Typing SVG" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,100:0080FF&height=120&section=header&text=&fontSize=0"/>
 
 ## 🚀 About Me
 
-I'm a **cloud-obsessed engineer** ⚡ who lives at the intersection of **automation**, **scalability**, and **problem solving**. When I'm not architecting robust systems in the cloud, you'll find me diving deep into DevOps practices, building full-stack applications, or contributing to open-source projects that make developers' lives easier.
+<img align="right" alt="Professional Female Developer" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+🌟 **🌟 Passionate Computer Science Student diving deep into the world of Full-Stack Development, Cloud Computing, and Problem Solving**
+
+⚡ Passionate about building **robust systems** that scale to millions of users
+
+🔥 **550+ DSA problems** solved across multiple platforms
+
+🌱 Currently mastering **React, Node.js, Java, and exploring Cloud Technologies**
+
+🎯 **Mission**: Making developers' lives easier through elegant automation
+
+☕ **Philosophy**: Good code + Great coffee = Magic happens
+
+💡 **Fun Fact**: I can solve a Rubik's cube faster than most people can boot their computers!
+
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samriddhi3901&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi3901&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img width="500" src="https://github-profile-trophy.vercel.app/?username=Samriddhi3901&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&row=2&column=4"/>
 </div>
 
+🎯 Quick Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samriddhi3901&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samriddhi3901&theme=algolia" alt="Profile Details"/>
 </div>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samriddhi3901&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samriddhi3901&theme=algolia" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samriddhi3901&theme=algolia" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samriddhi3901&theme=algolia" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samriddhi3901&theme=algolia&utcOffset=5.5" alt="Productive Time"/>
 </div>
-
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 Watch My Contributions Get Devoured!
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Samriddhi3901/Samriddhi3901/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 💻 Tech Stack Arsenal
 
----
-
-## 💪 My Superpowers
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### ☁️ Cloud & DevOps
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### 👩‍💻 Development
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescriptlang-icon.svg" alt="TypeScript" height="50" /></a>  
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### 🗄️ Databases
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Projects
-
+### 🌐 Frontend Powerhouse
 <div align="center">
-  <a href="https://github.com/Samriddhi3901/CI-CD-NextApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samriddhi3901&repo=CI-CD-NextApp&theme=tokyonight&hide_border=true" alt="CI-CD-NextApp"/>
-  </a>
-  <a href="https://github.com/Samriddhi3901/devops-node-stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samriddhi3901&repo=devops-node-stack&theme=tokyonight&hide_border=true" alt="devops-node-stack"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,typescript,javascript,html,css,tailwind,bootstrap,materialui&theme=dark" />
 </div>
 
+### ⚡ Backend Mastery
 <div align="center">
-  <a href="https://github.com/Samriddhi3901/SynkNode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samriddhi3901&repo=SynkNode&theme=tokyonight&hide_border=true" alt="SynkNode"/>
-  </a>
-  <a href="https://github.com/Samriddhi3901/WhiteSpace-Socket.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samriddhi3901&repo=WhiteSpace-Socket.io&theme=tokyonight&hide_border=true" alt="WhiteSpace-Socket.io"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,java,python,,prisma,nextjs&theme=dark" />
 </div>
 
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎲 Random Dev Joke
+### 🗄️ Database Expertise
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random Dev Joke" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase&theme=dark" />
 </div>
 
----
-
-## 🏃‍♀️ Fun Facts
-- 🧩 **Speedcuber**: My Rubik's cube and I have a love-hate relationship
-- 🌱 Currently geeking out over **AI/ML** and **serverless tech**
-- 🤝 **Collaboration Enthusiast**: My best work happens in teams
-- 📚 **Continuous Learner**: Always exploring new tech frontiers
-- ☕ Coffee-driven development is my specialty
-- 🎯 **400+ DSA problems** conquered on various platforms
-
----
-
-## 📊 This Week I Spent My Time On
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 📈 Contribution Activity
+### ☁️ Cloud & Infrastructure
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samriddhi3901&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean,vercel,netlify&theme=dark" />
+</div>
+
+### 🔧 DevOps & Automation
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,nginx,linux&theme=dark" />
+</div>
+
+### 📊 Monitoring & Analytics
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" />
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="Kibana" />
+</div>
+
+### 🛠️ Development Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm,yarn,bun,postman,figma,notion&theme=dark" />
 </div>
 
 ---
 
-## 💬 Connect With Me
+## 🎯 Current Focus Areas
+
+🎯 Current Focus Areas
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+        <br><strong>Java</strong>
+        <br><sub>Problem Solving & Algorithms</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+        <br><strong>React</strong>
+        <br><sub>Frontend Development</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+        <br><strong>Node.js</strong>
+        <br><sub>Backend Development</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
+        <br><strong>DevOps</strong>
+        <br><sub>CI/CD & Automation</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+        <br><strong>Version Control</strong>
+        <br><sub>Collaboration & Deployment</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░   45.2%
+Rust         6 hrs 45 mins   ██████░░░░░░░░░░░   24.4%
+Python       4 hrs 15 mins   ████░░░░░░░░░░░░░   15.4%
+YAML         2 hrs 30 mins   ██░░░░░░░░░░░░░░░   9.1%
+Other        1 hr 35 mins    █░░░░░░░░░░░░░░░░   5.9%
+```
+----
+
+## 💬 Let's Connect & Collaborate
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samriddhi-agrawal-253984249/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Samriddhi3901">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:samriddhiagrawal3901@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" alt="Dev.to"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/Samriddhi3901">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="Follow on GitHub"/>
+  </a>
+  <a href="https://github.com/Samriddhi3901?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-00D8FF?style=for-the-badge&logo=github&logoColor=white&labelColor=00D8FF" alt="View Repositories"/>
   </a>
 </div>
 
 ---
 
-## 📊 Profile Stats
+## 📈 Profile Metrics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samriddhi3901&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Samriddhi3901?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Samriddhi3901&label=Profile%20Views&color=00D8FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Samriddhi3901?label=Followers&style=for-the-badge&color=0080FF&labelColor=0080FF" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Samriddhi3901?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFD700" alt="Total Stars" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>🚀 Let's Build Something Amazing Together! 🚀</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+  <h2>🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House 🚀</h2>
+  <h3>✨ Let's build something extraordinary together! ✨</h3>
+</div>
+
+
+---
+
+<div align="center">
+  <sub>⚡ Powered by passion, fueled by coffee, and driven by the desire to make a difference ⚡</sub>
 </div>
