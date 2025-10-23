@@ -1,4 +1,4 @@
-# Hey there, I'am Samriddhi!✨👋 
+# Hey there, I'am Samriddhi!✨🪻👋 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Cloud+%26+DevOps+Engineer+⚡;Full-Stack+Developer+🚀;Problem+Solver+%26+Innovator+🧩;Open+Source+Enthusiast+🌟;Building+the+Future%2C+One+Commit+at+a+Time+✨" alt="Typing SVG" />
