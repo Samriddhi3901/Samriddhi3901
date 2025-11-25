@@ -70,7 +70,7 @@ me.say_hi()
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **What I'm Up To:**
 
-- 🔭 Working on **next-gen web applications** with modern architecture
+- 🔭 Working on **next-gen web applications** with modern architecture!
 - 🌱 Learning **advanced system design** and **cloud-native patterns**
 - 👯 Looking to collaborate on **open source projects** and **innovative startups**
 - 💬 Ask me about **React, Node.js, Java, DevOps, or Cloud Computing**
