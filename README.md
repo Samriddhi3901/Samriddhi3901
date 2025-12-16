@@ -1,6 +1,7 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Samriddhi+Agrawal!;%E2%9A%A1+Full-Stack+Sorcerer+%26+Cloud+Architect;%F0%9F%9A%80+Turning+Ideas+Into+Reality;%F0%9F%A7%A9+550%2B+Problems+Conquered;%E2%9C%A8+Building+The+Future%2C+One+Commit+At+A+Time" alt="Typing SVG" /></a>
 
