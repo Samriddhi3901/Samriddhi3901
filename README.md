@@ -23,7 +23,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColo
   <img src="https://img.shields.io/github/stars/Samriddhi3901?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
-
 </div>
 
 ---
